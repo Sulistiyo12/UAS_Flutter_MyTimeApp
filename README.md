@@ -3,7 +3,5 @@
 Pengembang :
 
 Abdul Fais STI202102147
-
 Muarif Subekhi STI202102135
-
 Sulistiyo STI202102161
